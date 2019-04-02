@@ -2,7 +2,8 @@
 
 * [介绍](README.md)
 * 注册中心 
-  * [Get Start](DiscoveryServer/Get_Start.md)
+  * [1-Get Start](DiscoveryServer/Get_Start.md)
+  * [4-Eureka常用配置](DiscoveryServer/Spring_Cloud_Eureka_常用配置.md)
 * 配置中心
 * 服务提供者
 * 服务消费者
